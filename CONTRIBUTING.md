@@ -1,8 +1,8 @@
 # Contributing
 
-Hi there 👋 We are excited that you want to contribute a new sample to this repository. By doing this you are helping people getting started and running with our infrastructure and that's cool 😎.
+Hi there 👋 We are excited that you want to contribute to this repository. By doing this you are helping people getting started and running with our infrastructure and that's cool 😎.
 
-Contributions to this project are [released](https://help.github.com/articles/github-terms-of-service/#6-contributions-under-repository-license) to the public under the [project's open source license](https://github.com/actions/starter-workflows/blob/master/LICENSE).
+Contributions to this project are [released](https://help.github.com/articles/github-terms-of-service/#6-contributions-under-repository-license) to the public under the [project's open source license](../../master/LICENSE).
 
 Before merging a new sample, the following requirements need to be met:
 
