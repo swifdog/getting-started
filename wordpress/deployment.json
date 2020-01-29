@@ -72,11 +72,11 @@
   "volumes": [
     {
       "name": "wp-data",
-      "capacity": "3Gi"
+      "capacity": 3
     },
     {
       "name": "db-data",
-      "capacity": "5Gi"
+      "capacity": 5
     }
   ]
 }
