@@ -23,15 +23,15 @@
         },
         {
           "key": "WORDPRESS_DB_USER",
-          "value": "exampleUser"
+          "value": "wordpressUser"
         },
         {
           "key": "WORDPRESS_DB_PASSWORD",
-          "value": "examplePassword"
+          "value": "wordpressPassword"
         },
         {
           "key": "WORDPRESS_DB_NAME",
-          "value": "sampleDatabase"
+          "value": "wordpress"
         }
       ]
     },
