@@ -8,6 +8,6 @@ Before merging a new sample, the following requirements need to be met:
 
 - Should be as simple as is needed for the service.
 - Should not send data to any 3rd party service except for the purposes of installing dependencies.
-- Should not fall below the scaling values recommended by the manufacturer
+- Should not fall below the scaling recommendations by the manufacturer
 
 Thank you
